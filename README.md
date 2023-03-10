@@ -1,6 +1,6 @@
 # Amazoff
 
-Amazoff is the new and coming delivery service the main purpose od the application is that at the end of each day, the delivery schedule for the next day is decided.
+Amazoff is the new and coming delivery service the main purpose of the application is that at the end of each day, the delivery schedule for the next day is decided.
 There are some orders that need to be delivered and some delivery partners who will deliver the orders. Following points will help you understand the working of Amazoff:
 
 Orders:
